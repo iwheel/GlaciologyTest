@@ -6,7 +6,7 @@
 echo off
 check keywords warn
 
-$namerun = "CalvingMMGtest_aniso"
+$namerun = "CalvingMMGtest_aniso_onbranch"
 $restart = "Seasonal_Spinup_Last"
 
 $bed_func = "bedrockfunction_3D"
